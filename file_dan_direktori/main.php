@@ -25,7 +25,7 @@
                     <tr>
                         <th>Tanggal praktikum</th>
                         <th>:</th>
-                        <th>02 februari 2024</th>
+                        <th>13 februari 2024</th>
                     </tr>
                 </table>
                <img src="../image/me.jpg" alt="gambar-rusak" width="300">   
