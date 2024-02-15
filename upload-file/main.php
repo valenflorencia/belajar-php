@@ -27,8 +27,7 @@
                         <th>05 februari 2024</th>
                     </tr>
                 </table>
-               <img src="../image/me.jpg" alt="gmbr rusak" width="300">  
-                <!-- DOKUMENTASI -->
+               <img src="../image/me.jpg" alt="gmbr rusak" width="300">   <!-- DOKUMENTASI -->
         </div>
             </center>
 

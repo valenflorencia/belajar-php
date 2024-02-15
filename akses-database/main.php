@@ -32,6 +32,8 @@
         </div>
             </center>
 
+            <!-- PHP  (PHP: Hypertext Preprocessor) adalah sebuah bahasa pemrograman server side scripting yang bersifat open source. -->
+
                         <script>
             function showUser(str) {
             if (str == "") {
